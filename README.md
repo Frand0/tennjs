@@ -1,6 +1,6 @@
 🎮🔰
 
-#Beginner JavaScript Project
+## Beginner JavaScript Project
 
 After reading through No Starch Press's JavaScript Crash Course, this is the first form of of the first project; a pong clone or, tennjs, heh.
 
